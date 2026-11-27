@@ -1,0 +1,69 @@
+{
+ "name": "mysal-mult",
+ "style": "mult",
+ "character": "mysyk",
+ "audio": ".matin/mysal-mult/voice.wav",
+ "audio_orig": ".matin/mysal-mult/voice.wav",
+ "voice_fx": "rubberband=pitch=1.07:formant=shifted",
+ "scenes": [
+  {
+   "card": "hook",
+   "label": "телефоннан монтаж",
+   "pose": "wave",
+   "text": "*Компьютерсіз-ақ* Claude пен GitHub арқылы әдемі *Reels монтаждауға* болатынын білесіз бе?"
+  },
+  {
+   "card": "words",
+   "label": "сөздік",
+   "pose": "talk",
+   "text": "*Қарапайым тілмен* түсіндірейін!"
+  },
+  {
+   "card": "github",
+   "label": "01 · GitHub",
+   "pose": "point",
+   "text": "GitHub — бағдарламашылар өз кодтарын *сақтайтын және бөлісетін* онлайн платформа."
+  },
+  {
+   "card": "repo",
+   "label": "02 · репозиторий",
+   "pose": "talk",
+   "text": "Мұндағы әр жоба сақталатын папка *репозиторий* деп аталады."
+  },
+  {
+   "card": "starfork",
+   "label": "03 · Star және Fork",
+   "pose": "thumb",
+   "text": "Ал *Star* — жобаға лайк басу, *Fork* — біреудің жобасының көшірмесін өзіңізге алу."
+  },
+  {
+   "card": "tiles",
+   "label": "04 · не бар?",
+   "pose": "wow",
+   "text": "GitHub-та *дайын* кодтар, боттар, сайттар, тіпті *жасанды интеллектке* арналған құралдар бар!"
+  },
+  {
+   "card": "noprog",
+   "label": "05 · ең қызығы",
+   "pose": "thumb",
+   "text": "Ең қызығы — *бағдарламашы болмасаңыз да*, дайын жобаларды пайдалана аласыз."
+  },
+  {
+   "card": "connect",
+   "label": "06 · телефоннан монтаж",
+   "pose": "point",
+   "text": "GitHub-ты Claude Code-пен байланыстырып, *телефон арқылы монтаж* жасауды үйренгіңіз келе ме?"
+  },
+  {
+   "card": "cta",
+   "label": "толығырақ",
+   "pose": "point",
+   "text": "Толық ақпарат алу үшін төмендегі *«Подробнее»* батырмасын басыңыз!"
+  }
+ ],
+ "voice": {
+  "engine": "piper",
+  "speaker": 0,
+  "speed": 1.0
+ }
+}
